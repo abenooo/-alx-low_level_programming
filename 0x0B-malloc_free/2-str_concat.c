@@ -9,11 +9,11 @@
  */
 char *str_concat(char *s1, char *s2)
 {
-	char *strnew = NULL;
-	unsigned int i;
-	int n1;
-	int n2;
-	int count;
+char *strnew = NULL
+unsigned int i;
+int n1;
+int n2;
+int count;
 	count = 0;
 	if (s1 == NULL)
 		s1 = "";
