@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdio.h>
-#include <stdlib>
+#include <stdlib.h>
 /**
  * alloc_grid - Entry point
  *@width: rows of matrix
