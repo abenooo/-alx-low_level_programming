@@ -1,7 +1,6 @@
-#include "3-calc.h"
+#include "3-catc.h"
 #include <stdlib.h>
 #include <stdio.h>
-
 /**
  * main - Prints the result of simple operations.
  * @argc: The number of arguments supplied to the program.
